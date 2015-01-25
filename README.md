@@ -1,4 +1,7 @@
-AwesomeStarRating
-=================
+# AwesomeStarRating
 
-It is a modified fork of https://github.com/rcugut/jqAwesomeStarRating
+It is a fork of https://github.com/rcugut/jqAwesomeStarRating
+
+## Requirements
+
+[FontAwesome](http://fontawesome.io)
